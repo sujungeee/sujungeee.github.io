@@ -197,17 +197,17 @@ render_with_liquid: false
         - layout: UI 구성에 필요한 XML 리소스
         - mipmap: 앱 아이콘 이미지
         - values: 문자열 등의 값으로 이용되는 리소스
-    - [R.java](http://R.java)
+    - R.java
       
         : res 폴더에서 선언된 리소스들을 변수로 사용할 수 있도록 int형 상수 변수로 관리하는 파일
         
-        - [R.java](http://R.java)/drawable 클래스
+        - R.java/drawable 클래스
           
-            : res/drawable/send.png 는 [R.java/drawa](http://R.java/drawalbe)ble 클래스에 R.drawable.send의 int형 변수로 선언되어 이용할 수 있음
+            : res/drawable/send.png 는 R.java/drawable 클래스에 R.drawable.send의 int형 변수로 선언되어 이용할 수 있음
             
-        - [R.java/layout](http://R.java/layout) 클래스
+        - R.java/layout 클래스
           
-            : : res/layout/test.xml 는 [R.java/](http://R.java/drawalbe)layout 클래스에 R.drawable.test의 int형 변수로 선언되어 이용할 수 있음
+            : : res/layout/test.xml 는 R.java/layout 클래스에 R.drawable.test의 int형 변수로 선언되어 이용할 수 있음
             
         - R.java에서 리소스 선언 시 지켜야 할 규칙
             1. res 하위의 폴더 명은 지정된 폴더명을 사용해야 함(drawable, layout, …)
@@ -238,7 +238,7 @@ render_with_liquid: false
 > - 안드로이드 앱은 자바나 코틀린 언어를 이용해 개발한다.
 > - build.gradle은 대체로 모듈 단위의 설정 파일
 > - AndroidManifest.xml은 앱의 메인 환경 파일
-> - 리소스는 [R.java](http://R.java) 파일에 상수 변수로 등록되고 이 변수로 코드에서 리소스를 이용한다.
+> - 리소스는 R.java 파일에 상수 변수로 등록되고 이 변수로 코드에서 리소스를 이용한다.
 > - activity_main은 레이아웃 XML 파일이며 MainActivity.kt는 액티비티 컴포넌트 파일이다.
 > - 안드로이드는 액티비티, 서비스, 콘텐츠 프로바이더, 브로드캐스트 리시버 등 네 종류의 컴포넌트로 앱을 개발한다.
 
