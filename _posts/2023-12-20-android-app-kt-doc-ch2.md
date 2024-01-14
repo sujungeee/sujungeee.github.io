@@ -144,7 +144,7 @@ render_with_liquid: false
     - 중요 환경
         - 네임스페이스 선언- manifest
           
-            → <manifest>: 매니페스트 파일의 루트 태그
+            → manifest: 매니페스트 파일의 루트 태그<>
             
             → xmlns: XML의 네임스페이스 선언
             
