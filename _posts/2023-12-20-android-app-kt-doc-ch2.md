@@ -2,10 +2,9 @@
 title: Ch2. 안드로이드 앱의 기본 구조
 author: sujungeee
 date: 2023-12-20 14:10:00 +0800
-categories: [Blogging, android-doc]
+categories: [Android App, 이론]
 tags: [Android, Kotlin, doc]
 render_with_liquid: false
-
 ---
 
 
