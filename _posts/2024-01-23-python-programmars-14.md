@@ -1,7 +1,7 @@
 ---
 title: "[프로그래머스] 표 편집"
 author: sujungeee
-date: 2024-01-23 16:15:00 +0800
+date: 2024-01-23 15:15:00 +0800
 categories: [Python, 프로그래머스]
 tags: [Python, 프로그래머스, Review]
 render_with_liquid: false
