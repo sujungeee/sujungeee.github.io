@@ -11,7 +11,7 @@ render_with_liquid: false
 
 > 코딩테스트 합격자되기 파이썬 편- 문제 25
 
-[문제 >   https://school.programmers.co.kr/learn/courses/30/lessons/72411( https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+[문제 >   https://school.programmers.co.kr/learn/courses/30/lessons/72411]( https://school.programmers.co.kr/learn/courses/30/lessons/72411)
 
 
 

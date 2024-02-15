@@ -12,7 +12,7 @@ render_with_liquid: false
 
 > 코딩테스트 합격자되기 파이썬 편- 문제 24
 
-[문제 >   https://school.programmers.co.kr/learn/courses/30/lessons/92334( https://school.programmers.co.kr/learn/courses/30/lessons/92334)
+[문제 >   https://school.programmers.co.kr/learn/courses/30/lessons/92334]( https://school.programmers.co.kr/learn/courses/30/lessons/92334)
 
 
 
