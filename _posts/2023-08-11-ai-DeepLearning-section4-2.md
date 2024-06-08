@@ -3,7 +3,7 @@ title: "[딥러닝] 섹션4-2: RNN 모델"
 author: sujungeee
 date: 2023-08-11 21:26:00 +0800
 categories: [AI, 딥러닝]
-tags: [AI, 딥러닝, 머신러닝, TensorFlow, RNN
+tags: [AI, 딥러닝, 머신러닝, TensorFlow, RNN]
 render_with_liquid: false
 
 ---
