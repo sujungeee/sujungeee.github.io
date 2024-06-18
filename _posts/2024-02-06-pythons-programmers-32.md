@@ -2,7 +2,7 @@
 title: "[프로그래머스] 길 찾기 게임"
 author: sujungeee
 date: 2024-02-06 16:01:00 +0800
-categories: [Python, 프로그래머스]
+categories: [Programming, Python(프로그래머스)]
 tags: [Python, 프로그래머스, Review]
 render_with_liquid: false
 

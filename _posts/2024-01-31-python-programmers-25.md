@@ -2,7 +2,7 @@
 title: "[프로그래머스] 메뉴 리뉴얼"
 author: sujungeee
 date: 2024-01-31 09:15:00 +0800
-categories: [Python, 프로그래머스]
+categories: [Programming, Python(프로그래머스)]
 tags: [Python, 프로그래머스, Review]
 render_with_liquid: false
 ---

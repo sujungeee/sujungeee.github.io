@@ -2,7 +2,7 @@
 title: "[프로그래머스] 크레인 인형 뽑기 게임"
 author: sujungeee
 date: 2024-01-21 16:15:00 +0800
-categories: [Python, 프로그래머스]
+categories: [Programming, Python(프로그래머스)]
 tags: [Python, 프로그래머스, Review]
 render_with_liquid: false
 ---

@@ -2,7 +2,7 @@
 title: "[프로그래머스] 양궁 대회"
 author: sujungeee
 date: 2024-03-02 23:12:00 +0800
-categories: [Python, 프로그래머스]
+categories: [Programming, Python(프로그래머스)]
 tags: [Python, 프로그래머스, Review]
 render_with_liquid: false
 

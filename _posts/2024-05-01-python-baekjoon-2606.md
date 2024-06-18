@@ -2,7 +2,7 @@
 title: "[백준] 2606 바이러스"
 author: sujungeee
 date: 2024-04-06 17:12:00 +0800
-categories: [Python, 백준]
+categories: [Programming, Python(백준)]
 tags: [Python, 백준, 그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색, Review]
 render_with_liquid: false
 
