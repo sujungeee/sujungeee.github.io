@@ -14,7 +14,7 @@ render_with_liquid: false
 
 ### 앱의 폴더와 파일 구조
 
-<img src="/Users/sujungnam/loc-git/sujungeee.github.io/_posts/img/2024-08-29-android-practice-01/directory_architecture.png" alt="디렉토리 구조" style="zoom:33%;" />
+<img src="/assets/img/0829/directory_architecture.png" style="zoom:33%;" />
 
 - AndroidManifest.xml
 - MainActivity.java
@@ -125,7 +125,7 @@ class MainActivity : AppCompatActivity() {
 
 ### Gradle
 
-<img src="/Users/sujungnam/loc-git/sujungeee.github.io/_posts/img/2024-08-29-android-practice-01/gradle.png" alt="gradle" style="zoom:33%;" />
+<img src="/assets/img/0829/gradle.png" style="zoom:33%;" />
 
 |                                     | 설명                                  |
 | ----------------------------------- | ------------------------------------- |
