@@ -125,7 +125,7 @@ class MainActivity : AppCompatActivity() {
 
 ### Gradle
 
-<img src="/assets/img/0829/gradle.png" alt="gradle" style="zoom:33%;" />
+<img src="/assets/img/0829/gradle.png" alt="gradle" style="zoom:33%;" />img {  image-rendering: smooth; }
 
 |                                     | 설명                                  |
 | ----------------------------------- | ------------------------------------- |
