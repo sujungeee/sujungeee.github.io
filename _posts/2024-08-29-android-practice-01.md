@@ -14,7 +14,7 @@ render_with_liquid: false
 
 ### 앱의 폴더와 파일 구조
 
-<img src="/assets/img/0829/directory_architecture.png" style="zoom:33%;" />
+<img src="./assets/img/0829/directory_architecture.png" style="zoom:33%;" />
 
 - AndroidManifest.xml
 - MainActivity.java
