@@ -14,7 +14,7 @@ render_with_liquid: false
 
 ### 앱의 폴더와 파일 구조
 
-<img src="/assets/img/0829/directory_architecture.png" alt="directory architecture" style="zoom:33%;" />
+<img width="180" alt="directory_architecture" src="https://github.com/user-attachments/assets/6127ab18-4f95-471e-8986-74b97996b141">
 
 - AndroidManifest.xml
 - MainActivity.java
@@ -125,7 +125,7 @@ class MainActivity : AppCompatActivity() {
 
 ### Gradle
 
-<img src="/assets/img/0829/gradle.png" alt="gradle" style="zoom:33%;" />img {  image-rendering: smooth; }
+<img width="300" alt="gradle" src="https://github.com/user-attachments/assets/7dbc3547-d967-489b-9d1e-f9f85f7fdc13">
 
 |                                     | 설명                                  |
 | ----------------------------------- | ------------------------------------- |
