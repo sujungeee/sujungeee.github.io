@@ -19,11 +19,12 @@ function handleImage() {
     return;
   }
 
-  if (this.hasAttribute(ATTR_DATA_LQIP)) {
-    removeCover.call(this, cover.BLUR);
-  } else {
-    removeCover.call(this, cover.SHIMMER);
-  }
+  removeCover.call(this);
+  // if (this.hasAttribute(ATTR_DATA_LQIP)) {
+  //   removeCover.call(this, cover.BLUR);
+  // } else {
+  //   removeCover.call(this, cover.SHIMMER);
+  // }
 }
 
 /**
