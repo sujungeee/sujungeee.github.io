@@ -29,11 +29,20 @@ jobs:
         with:
           fetch-depth: 0 # for posts's lastmod
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: ${{ matrix.ruby }}
-          bundler-cache: true
+      - name: Setup Ruby using ruby-build
+        run: |
+          curl -fsSL https://github.com/rbenv/ruby-build/archive/master.tar.gz | tar -xz -C /tmp
+          /tmp/ruby-build-master/bin/ruby-build ${{ matrix.ruby }} /opt/hostedtoolcache/Ruby/${{ matrix.ruby }}/x64
+          touch /opt/hostedtoolcache/Ruby/${{ matrix.ruby }}/x64.complete
+
+      - name: Set up Ruby
+        run: echo "/opt/hostedtoolcache/Ruby/${{ matrix.ruby }}/x64/bin" >> $GITHUB_PATH
+
+      - name: Install Bundler
+        run: gem install bundler
+
+      - name: Install Dependencies
+        run: bundle install
 
       - name: Setup Node
         uses: actions/setup-node@v4
