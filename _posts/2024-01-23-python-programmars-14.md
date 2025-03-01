@@ -1,9 +1,9 @@
 ---
-title: "[프로그래머스] 표 편집"
+title: "[Python] 표 편집"
 author: sujungeee
 date: 2024-01-23 15:15:00 +0800
-categories: [Programming, Python(프로그래머스)]
-tags: [Python, 프로그래머스, Review]
+categories: [코딩 테스트, 프로그래머스]
+tags: [Python, 프로그래머스, Python, Review]
 render_with_liquid: false
 ---
 

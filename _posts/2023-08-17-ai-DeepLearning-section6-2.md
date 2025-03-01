@@ -2,8 +2,8 @@
 title: "[딥러닝] 섹션6-2: CRAFT, EAST 실습 진행"
 author: sujungeee
 date: 2023-08-17 10:30:00 +0800
-categories: [AI, 딥러닝]
-tags: [AI, 딥러닝, 머신러닝, TensorFlow, Text Detection, EAST, CRAFT]
+categories: [인공지능, 딥러닝]
+tags: [인공지능, AI, 딥러닝, 머신러닝, TensorFlow, Text Detection, EAST, CRAFT]
 render_with_liquid: false
 
 ---

@@ -2,8 +2,8 @@
 title: "[딥러닝] Object Detection"
 author: sujungeee
 date: 2023-08-31 11:31:00 +0800
-categories: [AI, 딥러닝]
-tags: [AI, 딥러닝, 머신러닝, TensorFlow, 객체 탐지, 컴퓨터 비전, Object Detection]
+categories: [인공지능, 딥러닝]
+tags: [인공지능, AI, 딥러닝, 머신러닝, TensorFlow, 객체 탐지, 컴퓨터 비전, Object Detection]
 render_with_liquid: false
 
 ---

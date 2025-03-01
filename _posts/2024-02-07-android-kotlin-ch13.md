@@ -2,8 +2,8 @@
 title: "[안드로이드] Ch13. 액티비티 컴포넌트"
 author: sujungeee
 date: 2024-02-07 02:11:00 +0800
-categories: [Android App, 이론]
-tags: [Android, Kotlin, doc]
+categories: [안드로이드, 이론]
+tags: [안드로이드, Android, Kotlin, doc]
 render_with_liquid: false
 
 ---

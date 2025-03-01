@@ -2,8 +2,8 @@
 title: "[딥러닝] 섹션9: Optical Character Recognition"
 author: sujungeee
 date: 2023-08-22 16:32:00 +0800
-categories: [AI, 딥러닝]
-tags: [AI, 딥러닝, 머신러닝, TensorFlow, OCR, Text Recognition]
+categories: [인공지능, 딥러닝]
+tags: [인공지능, AI, 딥러닝, 머신러닝, TensorFlow, OCR, Text Recognition]
 render_with_liquid: false
 
 ---

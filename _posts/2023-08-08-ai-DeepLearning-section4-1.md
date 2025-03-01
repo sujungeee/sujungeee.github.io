@@ -2,8 +2,8 @@
 title: "[딥러닝] 섹션4-1: RNN 개념"
 author: sujungeee
 date: 2023-08-08 02:09:00 +0800
-categories: [AI, 딥러닝]
-tags: [AI, 딥러닝, 머신러닝, TensorFlow, RNN]
+categories: [인공지능, 딥러닝]
+tags: [인공지능, AI, 딥러닝, 머신러닝, TensorFlow, RNN]
 render_with_liquid: false
 
 ---

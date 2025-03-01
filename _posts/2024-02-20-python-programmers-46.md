@@ -1,9 +1,9 @@
 ---
-title: "[프로그래머스] 전력망을 둘로 나누기"
+title: "[Python] 전력망을 둘로 나누기"
 author: sujungeee
 date: 2024-02-20 17:02:00 +0800
-categories: [Programming, Python(프로그래머스)]
-tags: [Python, 프로그래머스, Review]
+categories: [코딩 테스트, 프로그래머스]
+tags: [Python, 프로그래머스, Python, Review]
 render_with_liquid: false
 
 

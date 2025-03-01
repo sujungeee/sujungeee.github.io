@@ -2,8 +2,8 @@
 title: "[안드로이드] Ch6. 뷰를 이용한 화면 구성"
 author: sujungeee
 date: 2024-01-05 11:58:00 +0800
-categories: [Android App, 이론]
-tags: [Android, Kotlin, doc]
+categories: [안드로이드, 이론]
+tags: [안드로이드, Android, Kotlin, doc]
 render_with_liquid: false
 
 ---

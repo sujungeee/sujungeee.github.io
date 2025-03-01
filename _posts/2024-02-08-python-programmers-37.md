@@ -1,9 +1,9 @@
 ---
-title: "[프로그래머스] 섬 연결하기"
+title: "[Python] 섬 연결하기"
 author: sujungeee
 date: 2024-02-08 20:59:00 +0800
-categories: [Programming, Python(프로그래머스)]
-tags: [Python, 프로그래머스, Review]
+categories: [코딩 테스트, 프로그래머스]
+tags: [Python, 프로그래머스, Python, Review]
 render_with_liquid: false
 
 

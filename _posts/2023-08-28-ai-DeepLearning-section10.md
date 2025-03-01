@@ -2,8 +2,8 @@
 title: "[딥러닝] 섹션10: 모델 성능 개선 방법"
 author: sujungeee
 date: 2023-08-28 22:48:00 +0800
-categories: [AI, 딥러닝]
-tags: [AI, 딥러닝, 머신러닝, TensorFlow, 딥러닝 모델, 성능]
+categories: [인공지능, 딥러닝]
+tags: [인공지능, AI, 딥러닝, 머신러닝, TensorFlow, 딥러닝 모델, 성능]
 render_with_liquid: false
 
 ---

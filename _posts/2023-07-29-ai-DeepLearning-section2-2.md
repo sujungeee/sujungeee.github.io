@@ -2,8 +2,8 @@
 title: "[딥러닝] 섹션2-2: CNN 표준 모델"
 author: sujungeee
 date: 2023-07-29 12:59:00 +0800
-categories: [AI, 딥러닝]
-tags: [AI, 딥러닝, 머신러닝, TensorFlow, CNN, 이미지 추출]
+categories: [인공지능, 딥러닝]
+tags: [인공지능, AI, 딥러닝, 머신러닝, TensorFlow, CNN, 이미지 추출]
 render_with_liquid: false
 
 ---

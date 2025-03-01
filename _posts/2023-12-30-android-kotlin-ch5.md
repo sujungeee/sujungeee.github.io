@@ -2,8 +2,8 @@
 title: "[안드로이드] Ch5. 코틀린의 유용한 기법"
 author: sujungeee
 date: 2023-12-30 18:03:00 +0800
-categories: [Android App, 이론]
-tags: [Android, Kotlin, doc]
+categories: [안드로이드, 이론]
+tags: [안드로이드, Android, Kotlin, doc]
 render_with_liquid: false
 
 ---

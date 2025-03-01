@@ -2,8 +2,8 @@
 title: "[안드로이드] Ch9. 리소스 활용하기"
 author: sujungeee
 date: 2024-01-21 15:58:00 +0800
-categories: [Android App, 이론]
-tags: [Android, Kotlin, doc]
+categories: [안드로이드, 이론]
+tags: [안드로이드, Android, Kotlin, doc]
 render_with_liquid: false
 
 ---

@@ -2,8 +2,8 @@
 title: "[딥러닝] 섹션1-2: 텐서플로/컴퓨터비전 기초"
 author: sujungeee
 date: 2023-07-19 09:39:00 +0800
-categories: [AI, 딥러닝]
-tags: [AI, 딥러닝, 머신러닝, TensorFlow]
+categories: [인공지능, 딥러닝]
+tags: [인공지능, AI, 딥러닝, 머신러닝, TensorFlow]
 render_with_liquid: false
 
 ---

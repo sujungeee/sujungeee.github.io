@@ -2,8 +2,8 @@
 title: "[딥러닝] 섹션3-2: Pre-Trained CNN(2)"
 author: sujungeee
 date: 2023-08-04 13:35:00 +0800
-categories: [AI, 딥러닝]
-tags: [AI, 딥러닝, 머신러닝, TensorFlow, CNN, 이미지 추출]
+categories: [인공지능, 딥러닝]
+tags: [인공지능, AI, 딥러닝, 머신러닝, TensorFlow, CNN, 이미지 추출]
 render_with_liquid: false
 
 ---

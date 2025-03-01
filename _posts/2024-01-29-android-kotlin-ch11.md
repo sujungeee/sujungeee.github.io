@@ -2,8 +2,8 @@
 title: "[안드로이드] Ch11. 제트팩 라이브러리"
 author: sujungeee
 date: 2024-01-29 22:16:00 +0800
-categories: [Android App, 이론]
-tags: [Android, Kotlin, doc]
+categories: [안드로이드, 이론]
+tags: [안드로이드, Android, Kotlin, doc]
 render_with_liquid: false
 
 ---

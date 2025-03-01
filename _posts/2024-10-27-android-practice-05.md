@@ -2,8 +2,8 @@
 title: "[안드로이드] 05. Intent & Permissions"
 author: sujungeee
 date: 2024-10-27 23:45:00 +0800
-categories: [Android App, 실습]
-tags: [Android, Kotlin, practice]
+categories: [안드로이드, 실습]
+tags: [안드로이드, Android, Kotlin, practice]
 render_with_liquid: false
 
 ---
