@@ -188,6 +188,14 @@ exclude:
   - LICENSE
   - rollup.config.js
   - package*.json
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - actions-runner
+  - .DS_Store
+  - .jekyll-cache
+  - .jekyll-metadata
 
 jekyll-archives:
   enabled: [categories, tags]
